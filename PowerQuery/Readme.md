@@ -32,8 +32,14 @@ Year: 29 empty rows
 
 ### 3- Data Types:
 
+All Columns worked well, except Year that needs some improvment:
+
 ![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/1de604bf-6d5c-4981-840f-0b4c85d48ab4)
 
+Split the column by de Delimeter '.', in order to clean up the data:
+
 ![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/e800f6cd-9f07-48e3-9355-8c4ebb13a9ab)
+
+Remove the columns 'Year.2'
 
 ![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/fa311cfb-3134-44fe-b140-a622f66b909e)
