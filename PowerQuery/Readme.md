@@ -6,4 +6,6 @@ The result:
 
 ![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/45bed3d1-cac8-4d84-a821-21caae74ba2b)
 
-### 2-
+### 2- View:
+
+![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/afe9b238-45f0-4fca-ab6c-3c4cf460b621)
