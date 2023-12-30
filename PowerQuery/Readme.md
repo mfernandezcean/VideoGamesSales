@@ -19,3 +19,12 @@ All Columns are:
 Except two:
 
 ![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/cfe60c05-ce10-4f3e-870e-33909cc7a9c6)
+
+Publisher: Two empty rows
+
+![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/8c0a98ce-acc0-463d-a2ab-4fe406ad381c)
+
+Year: 29 empty rows
+
+![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/1fe794ee-ab0c-4252-8487-480ff4304648)
+
