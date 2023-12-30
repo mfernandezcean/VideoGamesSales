@@ -28,4 +28,4 @@ Year: 29 empty rows
 
 ![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/1fe794ee-ab0c-4252-8487-480ff4304648)
 
-For simplicity stake, will delete this row's. So no empty fields will remain.
+#### For simplicity, will delete this row's. So no empty fields will remain.
