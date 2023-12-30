@@ -9,4 +9,4 @@ Data Load
 
 The Data is one CSV file. 
 
-After loading we'll go to Power Query
+After loading we'll go to [PowerQuery](https://github.com/mfernandezcean/VideoGamesSales/tree/main/PowerQuery)
