@@ -29,3 +29,7 @@ Year: 29 empty rows
 ![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/1fe794ee-ab0c-4252-8487-480ff4304648)
 
 #### For simplicity, will delete this row's. So no empty fields will remain.
+
+### 3- Data Types:
+
+![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/1de604bf-6d5c-4981-840f-0b4c85d48ab4)
