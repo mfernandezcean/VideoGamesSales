@@ -35,3 +35,5 @@ Year: 29 empty rows
 ![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/1de604bf-6d5c-4981-840f-0b4c85d48ab4)
 
 ![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/e800f6cd-9f07-48e3-9355-8c4ebb13a9ab)
+
+![image](https://github.com/mfernandezcean/VideoGamesSales/assets/105746149/fa311cfb-3134-44fe-b140-a622f66b909e)
