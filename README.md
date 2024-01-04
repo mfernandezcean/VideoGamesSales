@@ -3,7 +3,7 @@ Video Games Sales data set [Kaggle](https://www.kaggle.com/datasets/thedevastato
 
 ##  About this file
 
-The Video Games Sales.csv file provides comprehensive data on global video game sales, reviews, and rankings, including details such as game title, platform, genre, publisher, and sales by region
+The **Video Games Sales.csv** file provides comprehensive data on global video game sales, reviews, and rankings, including details such as game title, platform, genre, publisher, and sales by region
 
 -   Rank: The rank of the video game based on global sales volume. (Numerical)
 -   Game Title: The name of the video game. (String)
